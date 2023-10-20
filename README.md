@@ -56,8 +56,7 @@
 <h1 align="left">Certifications</h1>
   <p align ="left">
     <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC2276470&trackId=OADBC2021CA&key=2aafc631a7c922dade7efaeba82898ab0fd55c15">
-      <br>
-      Oracle Autonomous Database Cloud 2021 Certified Specialist
+        Oracle Autonomous Database Cloud 2021 Certified Specialist
     </a> 
     <br>
     Oracle University 
@@ -84,5 +83,5 @@
     <br>
     Data Camp
     <br>
-    MAY 01, 2022
+    May 01, 2022
   </p>
