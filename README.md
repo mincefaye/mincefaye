@@ -1,4 +1,3 @@
-# myProfile
 <h1 align="center">Fince Maye T. Delos Reyes</h1>
 
 <p align="center">
@@ -52,7 +51,7 @@
     2020 - Present
   </p>
 
-<br><br>
+<br>
 
 <h1 align="left">Certifications</h1>
   <p align ="left">
