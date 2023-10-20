@@ -44,6 +44,8 @@
     </a> 
   </p>
 
+<br>
+
 <h1 align="left">Education</h1>
   <p align="left">
     Bachelor of Information Technology | New Era University 
